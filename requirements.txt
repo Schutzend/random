@@ -1,0 +1,4 @@
+cherrypy
+pymysql
+python-dotenv
+cryptography
